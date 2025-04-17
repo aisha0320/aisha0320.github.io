@@ -5,7 +5,7 @@ export const siteConfig = {
   // Add any other site-wide configuration values you need
   social: {
     twitter: "JohnDoe",
-    github: "torqbit",
+    github: "aisha0320",
   },
   talks: [
     "https://www.youtube.com/watch?v=jN0kB85rxGg",
