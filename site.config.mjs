@@ -23,8 +23,8 @@ export const siteConfig = {
     ],
     contact: {
       text: "Contact Me",
-      value: "75365256535",
-      type: "whatsapp",
+      value: "agarwalaisha2000@gmail.com",
+      type: "email",
     },
   },
   about: {
