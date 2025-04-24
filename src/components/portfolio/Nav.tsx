@@ -85,7 +85,7 @@ const Contact: FC<{ contact: Contact }> = ({ contact }) => {
     } else if (link.startsWith("mailto:")) {
       return "/images/email.svg";
     } else {
-      return "/images/whatsapp.svg";
+      return "/images/whatsapp.svg.svg";
     }
   };
 

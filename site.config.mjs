@@ -8,9 +8,9 @@ export const siteConfig = {
     github: "aisha0320",
   },
   talks: [
-    {videoUrl:"https://www.youtube.com/watch?v=jN0kB85rxGg"},
-    {videoUrl:"https://www.youtube.com/watch?v=eMFKqcYQQFk"},
-    {videoUrl:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
+    {videoUrl:"https://youtu.be/R2meHtrO1n8?si=rR57LXJktd7zoxmM"},
+    {videoUrl:"https://youtu.be/Pj9QnO9rZkE?si=T0f4ED7drzZV5WFb"},
+    {videoUrl:"https://youtu.be/7ARBJQn6QkM?si=fEt3n-8km7nqrTUy"},
   ],
   nav: {
     firstName: "AISHA",
@@ -28,7 +28,7 @@ export const siteConfig = {
     },
   },
   about: {
-    img: "images/bbbf214c-de21-49a2-ab0b-9c14fc1a4f62.jpeg",
+    img: "images/aisha.jpeg",
     name: "Aisha",
     description:
       "I help Startsups through fast-paced full stack software development",
