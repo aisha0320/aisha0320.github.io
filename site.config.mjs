@@ -4,7 +4,7 @@ export const siteConfig = {
   url: "https://mysite.com",
   // Add any other site-wide configuration values you need
   social: {
-    twitter: "JohnDoe",
+    twitter: "AishaAgarwal",
     github: "aisha0320",
   },
   talks: [
@@ -13,8 +13,8 @@ export const siteConfig = {
     {videoUrl:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
   ],
   nav: {
-    firstName: "BELLA",
-    lastName: "DOE",
+    firstName: "AISHA",
+    lastName: "AGARWAL",
     links: [
       { name: "About", href: "about" },
       { name: "Articles", href: "articles" },
@@ -23,18 +23,18 @@ export const siteConfig = {
     ],
     contact: {
       text: "Contact Me",
-      value: "agarwalaisha2000@gmail.com",
-      type: "email",
+      value: "75365256535",
+      type: "whatsapp",
     },
   },
   about: {
-    img: "images/uifaces-popular-image.jpg",
-    name: "Bella",
+    img: "images/bbbf214c-de21-49a2-ab0b-9c14fc1a4f62.jpeg",
+    name: "Aisha",
     description:
       "I help Startsups through fast-paced full stack software development",
   },
   footer: {
     year: 2025,
-    name: "Bella Doe",
+    name: "Aisha Agarwal",
   },
 };
